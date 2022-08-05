@@ -1,0 +1,8 @@
+Выровнять элемены по левой стороне, justify-items: start;
+Выровнять элемены по правой стороне, justify-items: end;
+Выровнять элемены по центру, justify-items: center;
+'Выровнять элементы, заполнить всю ширину', justify-items: stretch;
+Выровнять элементы по верхней части, align-items: start;
+Выровнять элементы по нижней части, align-items: end;
+Выровнять элементы по центру, align-items: center;
+'Выровнять элементы, заполнить всю высоту', align-items: stretch;

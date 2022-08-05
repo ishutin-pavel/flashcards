@@ -1,0 +1,8 @@
+Ширина Flex элемента по содержимому, flex-basis: auto;
+Ширина Flex элемента 20%, flex-basis: 20%;
+Запретить увеличиваться flex элементу, flex-grow: 0; 
+Разрешить увеличиваться flex элементу, flex-grow: 1; 
+Запретить сжиматься flex элементу, flex-shrink: 0;
+Разрешить сжиматься flex элементу, flex-shrink: 1;
+Распишите свойство flex,'flex: flex-grow, flex-shrink, flex-basis;'
+Значение свойства flex по умолчанию, flex: 1 1 auto;

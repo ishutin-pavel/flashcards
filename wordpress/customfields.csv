@@ -1,0 +1,5 @@
+"Добавить произвольное поле", "add_post_meta ( $post_id, $meta_key, $meta_value, $unique );"
+"Обновить произвольное поле", "update_post_meta ( $post_id, $meta_key, $meta_value, $prev_value );"
+"Удалить произвольное поле", "delete_post_meta ( $post_id, $meta_key, $meta_value );"
+"Получить произвольное поле","get_post_meta ( $post_id, $key, $single );"
+"Получить все произвольные поля","get_post_custom( $post_id );"

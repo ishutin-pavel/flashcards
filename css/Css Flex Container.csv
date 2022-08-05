@@ -1,0 +1,7 @@
+Создание Flex контейнера, display: flex;
+
+Направление элементов: слева направо, flex-direction: row;
+Направление элементов: сверху вниз, flex-direction: column;
+Направление элементов: справа налево, flex-direction: row-reverse;
+Направление элементов: снизу вверх, flex-direction: column-reverse;
+'Свойство flex элемента, перемещающее его на указанную позицию', order:1;

@@ -1,0 +1,5 @@
+"Поиск в текущей директории по имени файла index.html","find . -name index.html"
+"Поиск в папку folder по имени файла '*.psd'","find folder -name '*.psd'"
+"Команда поиска по содержимому в текстовый файлах","grep"
+"Найти 'the' в файле index.html, пронумеровать строки","grep -n 'the' index.html"
+"Поиск в тексте файла index.html по регулярному выражению [hijk]","grep -E '[hijk]' index.html"}
