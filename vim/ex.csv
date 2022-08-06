@@ -1,0 +1,8 @@
+:update,Cохранить файл если он изменен
+:copy
+:move
+:print
+:put
+:g[lobal]
+:v[global]
+:shell,Сворачивает Vim и выходит в оболочку Bash. Чтобы вернуться в Vim нужно набрать exit

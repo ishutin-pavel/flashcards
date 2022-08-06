@@ -1,0 +1,16 @@
+:copen;Открыть окно quickfix list
+:cclose;Закрыть окно quickfix list
+:cn[ext];Следущая запись в quickfix list
+:cp[rev];Предыдущая запись в quickfix list
+:cnf[ile];Следующий файл в quickfix list
+:cpf[ile];Предыдущий файл в quickfix list
+:cfir[st];Первая запись в quickfix list
+:cla[st];Последняя запись в quickfix list
+:chistory;История списков quickfix list
+:colder;Предыдущий список quickfix list
+:cnewer;Следующий список quickfix list
+:vimgrep :grep :make;Команды заполнения листа quickfix list
+:vim /text/ **;Заполнить quickfix list из поиска :vim[grep]
+:grep Waldo *.md;Заполнить quickfix list из поиска команды :grep
+:cdo {cmd};Применяет команду {cmd} к каждой строке в списке результатов quickfix list
+:cfdo {cmd};Применяет команду {cmd} один раз к каждому файлу в списке результатов quickfix list
