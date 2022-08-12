@@ -47,3 +47,7 @@ git status;Текущее состояние репозитория
 git reset style.css;Отменить индексацию файла
 git commit -m 'first save';Создать коммит
 git commit --amend -m 'Новый комментарий';Переделать передыдущий коммит и сообщение
+git config --system;Системные настройки /etc/gitconfig
+git config --global;Настройки пользователя ~/.gitconfig
+git config;Настройки проекта project/.git/config
+
