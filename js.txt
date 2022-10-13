@@ -1,0 +1,7 @@
+var element = document.getElementById('selector');Выбрать элемент по id
+var elements = document.getElementsByClassName('ip-lits__item');Выбрать элементы по классу
+do { повторяющийся js код } while(условие);Цикл do-while
+alert('Привет');Вывести окно оповещения 'Привет'
+isNan();Функция проверки на число
+document.write();Вывести текст или код на странице
+let message;Создание переменной message

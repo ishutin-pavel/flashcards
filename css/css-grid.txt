@@ -1,0 +1,26 @@
+display: grid
+display: inline-grid
+
+grid-column-start
+grid-column-end
+grid-row-start
+grid-row-end
+
+row-gap
+column-gap
+gap
+
+grid-template-columns;Задать количество столбцов
+grid-template-rows;Задать количество строк
+grid-template-areas
+
+grid-auto-rows
+grid-auto-columns
+
+
+grid-template-columns: 1fr 1fr;Эквивалентно grid-template-columns: 50% 50%
+grid-template-columns: 1fr 2fr 1fr;Эквивалентно grid-template-columns: 25% 50% 25%
+
+grid-area: footer;Название области (элемент)
+grid-template-areas: "header header header" "nav article ads" "footer footer footer";Задать шаблон из областей (контейнер)
+grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));Адаптивная сетка элементов. Размер элементов от 150px до 
